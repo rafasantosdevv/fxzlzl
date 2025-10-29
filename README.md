@@ -1,36 +1,42 @@
-# 👨🏽‍💻 Rafael Santos
+# 👨🏽‍💻 Rafael Dos Santos 👨🏽‍💻
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Me chamo Rafael Dos Santos, tenho 19 anos e sou natural de São Paualo. Concluí o ensino médio no Amélia De Araújo. Atualmente, estou cursando técnico em Análise e Desenvolvimento de Sistemas na ETEC Itaquera. Sou apaixonado por tecnologia desde pequeno por achar fantástico tudo que podemos fazer com uma tela e um teclado, tenho um perfil no LinkedIN onde destaco melhor minha área de conhecimento."[Rafael Dos Santos](https://www.linkedin.com/in/rjosesfc/)".
+- 19 years old and a systems analysis and development technician.
+- I like to study the most complex parts of codes such as Java and data.
+- I studied for a year and a half on a technical course in systems analysis and development at ETEC.
+- My biggest project to date was creating a chatbot for WhatsApp using NGROK, Docker, N8N, and APIs.
+
+
+---
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/rjosesfc/">
+    <a href="https://www.linkedin.com/in/faelsantos/">
         <img 
-            alt="Meu Linkedin" 
-            title="Conheça meu trabalho" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-white?style=for-the-badge&logoColor=white&logo=linke"
+            alt="My Linkedin" 
+            title="Know my work" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Linkedin-white?style=for-the-badge&logoColor=white&logo=linke"
         />
     </a>
     <a href="https://www.instagram.com/faelxsfc_/">
         <img 
             alt="Instagram" 
             title="rede social ig" 
-            src="https://custom-icon-badges.demolab.com/badge/-faelxsfc-red?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a> 
     <a href="https://github.com/fxzlzl?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/fxzlzl?color=fff&style=for-the-badge&labelColor=f92&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/fxzlzl?color=fff&style=for-the-badge&labelColor=f92&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/fxzlzl/">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/fxzlzl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/fxzlzl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     
@@ -42,6 +48,42 @@ Me chamo Rafael Dos Santos, tenho 19 anos e sou natural de São Paualo. Concluí
 
 <img 
     align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -50,8 +92,8 @@ Me chamo Rafael Dos Santos, tenho 19 anos e sou natural de São Paualo. Concluí
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA"
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -132,7 +174,7 @@ Me chamo Rafael Dos Santos, tenho 19 anos e sou natural de São Paualo. Concluí
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
