@@ -38,7 +38,7 @@
 
 ###
 
-<img align="left" height="59" src="https://media.tenor.com/2VvgmzgfQwoAAAAm/happy-cute.webp"  />
+<img align="left" height="55" src="https://media.tenor.com/2VvgmzgfQwoAAAAm/happy-cute.webp"  />
 
 ###
 
